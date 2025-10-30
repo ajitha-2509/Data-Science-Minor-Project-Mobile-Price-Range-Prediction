@@ -54,7 +54,7 @@ Applied and compared several ML algorithms:
 |:------|:-----------------:|:--------------:|:--------|
 | Logistic Regression | 64.5% | 61.6% | Baseline model |
 | K-Nearest Neighbors (KNN) | 95.2% | 93.8% | Strong performance |
-| SVM (Linear Kernel) | 98.3% | **96.4%** | ✅ Best accuracy |
+| SVM (Linear Kernel) | 98.3% | **96.4%** | Best accuracy |
 | SVM (RBF Kernel) | 95.5% | 95.2% | Excellent generalization |
 | Decision Tree | 100% | 80.4% | Overfitting observed |
 | Random Forest | 100% | 88.0% | Balanced performance |
