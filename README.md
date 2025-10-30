@@ -108,7 +108,3 @@ M.Sc. Physics | Data Science & Machine Learning Enthusiast
 VIT Chennai
 ajithakumaravel200@gmail.com
 
-
-
-# Run the notebook
-jupyter notebook MINOR_PROJECT_AJITHA.ipynb
